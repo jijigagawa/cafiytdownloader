@@ -1,19 +1,17 @@
-# Youtube Dl bot 😉
-## Prerequisite
+# Youtube Downloader botudur 😉
+## Gereksinimler
     ffmpeg
   
     
-## install dependencies
+## Gerekli modülleri kurmak için
+
     pip3 install -r requirements.txt
 
 
-## Setup Bot
-    - Change configuration config.py  File
-    - install dependencies
-    - python3 -m bot
+## Botu Setup etmek için
+    - config.py dosyasını kendinize göre düzenleyin
+    - modülleri kurun
+    - python3 -m bot komutunu girin
     
-## Thanks ❤️
-* [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jijigagawa/cafiytdownloader/main)
